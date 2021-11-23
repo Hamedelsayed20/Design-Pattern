@@ -1,0 +1,16 @@
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePattern\bin\Debug\net5.0\StatePattern.exe
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePattern\bin\Debug\net5.0\StatePattern.deps.json
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePattern\bin\Debug\net5.0\StatePattern.runtimeconfig.json
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePattern\bin\Debug\net5.0\StatePattern.runtimeconfig.dev.json
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePattern\bin\Debug\net5.0\StatePattern.dll
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePattern\bin\Debug\net5.0\ref\StatePattern.dll
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePattern\bin\Debug\net5.0\StatePattern.pdb
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePattern\obj\Debug\net5.0\StatePattern.csproj.AssemblyReference.cache
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePattern\obj\Debug\net5.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePattern\obj\Debug\net5.0\StatePattern.AssemblyInfoInputs.cache
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePattern\obj\Debug\net5.0\StatePattern.AssemblyInfo.cs
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePattern\obj\Debug\net5.0\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePattern\obj\Debug\net5.0\StatePattern.dll
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePattern\obj\Debug\net5.0\ref\StatePattern.dll
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePattern\obj\Debug\net5.0\StatePattern.pdb
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePattern\obj\Debug\net5.0\StatePattern.genruntimeconfig.cache

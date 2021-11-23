@@ -1,0 +1,16 @@
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePatternAnotherExample\bin\Debug\net5.0\StatePatternAnotherExample.exe
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePatternAnotherExample\bin\Debug\net5.0\StatePatternAnotherExample.deps.json
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePatternAnotherExample\bin\Debug\net5.0\StatePatternAnotherExample.runtimeconfig.json
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePatternAnotherExample\bin\Debug\net5.0\StatePatternAnotherExample.runtimeconfig.dev.json
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePatternAnotherExample\bin\Debug\net5.0\StatePatternAnotherExample.dll
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePatternAnotherExample\bin\Debug\net5.0\ref\StatePatternAnotherExample.dll
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePatternAnotherExample\bin\Debug\net5.0\StatePatternAnotherExample.pdb
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePatternAnotherExample\obj\Debug\net5.0\StatePatternAnotherExample.csproj.AssemblyReference.cache
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePatternAnotherExample\obj\Debug\net5.0\StatePatternAnotherExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePatternAnotherExample\obj\Debug\net5.0\StatePatternAnotherExample.AssemblyInfoInputs.cache
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePatternAnotherExample\obj\Debug\net5.0\StatePatternAnotherExample.AssemblyInfo.cs
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePatternAnotherExample\obj\Debug\net5.0\StatePatternAnotherExample.csproj.CoreCompileInputs.cache
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePatternAnotherExample\obj\Debug\net5.0\StatePatternAnotherExample.dll
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePatternAnotherExample\obj\Debug\net5.0\ref\StatePatternAnotherExample.dll
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePatternAnotherExample\obj\Debug\net5.0\StatePatternAnotherExample.pdb
+C:\Users\901545\Downloads\DesignPatternRepo\StatePattern\StatePatternAnotherExample\obj\Debug\net5.0\StatePatternAnotherExample.genruntimeconfig.cache
