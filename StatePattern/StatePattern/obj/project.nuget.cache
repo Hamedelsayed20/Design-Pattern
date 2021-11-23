@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Mh85Ff2Elr0zavD4Dq0VOcY0YxgtVm4AUzVN9gbY7iZzkv0yP5pky50SRMM9udVsQRCDCcgmg2tEpsgNZnTvA==",
+  "dgSpecHash": "aBZfKKIJnLRphzNORF9GuyhYVNZeSO9hPuDGq6DN9/FbNOpC112/bknamGK0E6GWElvnCMjqgdRgBKRK/BlEOA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\901545\\Downloads\\DesignPatternRepo\\StatePattern\\StatePattern\\StatePattern.csproj",
+  "projectFilePath": "C:\\Users\\901545\\Downloads\\DesignPatternRepo\\Design-Pattern\\StatePattern\\StatePattern\\StatePattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
